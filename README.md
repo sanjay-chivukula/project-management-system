@@ -9,6 +9,7 @@ A project management system consists of users with functionalites to manage over
  - The system should provide functionalities to manage(create/delete/read/update) users of the system.
  - Each project and task should have a schedule.
  - A project should be able to tell if it is fesible to complete it within the specified timelines.
+ - A task may be dependent on others task before it can be started/completed.
  
 ### Actors:
  - UserAdmin: creates and manages system user accounts.
